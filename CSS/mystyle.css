@@ -1,15 +1,18 @@
 body{
     background-color: #F8F5E2;
-    margin-right:12px;
-    margin-left: 12px;
-    margin-top: 24px;
-    margin-bottom: 24px;
 }
 
 navbar navbar-light bg-light{
     background-color: transparent;
+    padding: 20px;
 }
 
 container{
     padding-top: 10%;
 }
+
+.imageSize{
+    width: 100%;
+    height: auto;
+}
+
